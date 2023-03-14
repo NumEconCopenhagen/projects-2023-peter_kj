@@ -1,9 +1,7 @@
-# \[Group name\]
+# \[peter_kj\]
 
 **Group members:**
-- A
-- B
-- C
+- Peter Krogsager Jepsen 
 
 This repository contains  
 1. Inaugural project. 
